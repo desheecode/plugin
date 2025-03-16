@@ -1,0 +1,21 @@
+# Copyright (C) 2025 आपका नाम
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: सुरक्षा फीचर्स 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/disable-right-click-security\n"
+"POT-Creation-Date: 2025-03-16 21:42:57+05:30\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: disable-right-click.php:123
+msgid "सुरक्षा फीचर्स सेटिंग्स"
+msgstr ""
+
+#: disable-right-click.php:124
+msgid "सुरक्षा फीचर्स"
+msgstr ""
